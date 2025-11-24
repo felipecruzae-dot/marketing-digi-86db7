@@ -68,10 +68,11 @@ sections:
       - type: FeaturedItem
         title: Tráfego Pago/Anúncios
         subtitle: Google/Meta
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Criamos campanhas de alta performance focadas em trazer clientes
+          prontos para comprar. Transformamos cliques em vendas reais com foco
+          no ROI.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

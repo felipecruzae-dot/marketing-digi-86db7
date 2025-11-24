@@ -55,7 +55,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Nossos Pilares de Crescimento
       color: text-dark
       styles:
         self:

@@ -96,7 +96,7 @@ sections:
             self:
               borderRadius: x-large
       - title: SEO
-        subtitle: The Job Stuff
+        subtitle: Você no topo do Google
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

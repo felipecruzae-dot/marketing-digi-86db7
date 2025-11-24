@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: MARKETING DIGI
+      label: marketing digi
       color: text-primary
       type: Badge
     elementId: ''

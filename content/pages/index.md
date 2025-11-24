@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 400
+          fontWeight: 500
     subtitle: marketing digi
     text: >+
       Agência de Marketing Digital 360°. Tráfego Pago, Comunicação visual,

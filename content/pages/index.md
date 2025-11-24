@@ -126,10 +126,10 @@ sections:
         type: FeaturedItem
       - title: Dados (BI)
         subtitle: Inteligência de Negócio
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Chega de "achismo". Monitoramos seus resultados em tempo real para
+          saber exatamente onde investir e como escalar seu lucro com segurança.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three

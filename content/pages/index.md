@@ -151,7 +151,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Estratégia 360°
       color: text-primary
       styles:
         self:

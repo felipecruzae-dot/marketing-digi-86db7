@@ -125,7 +125,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Dados (BI)
-        subtitle: Faster
+        subtitle: Inteligência de Negócio
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

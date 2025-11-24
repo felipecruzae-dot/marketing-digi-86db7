@@ -7,7 +7,7 @@ sections:
       text: A Agência que Resolve Tudo no seu Marketing!
       color: text-dark
       type: TitleBlock
-    subtitle: digi
+    subtitle: marketing digi
     text: >+
       Agência de Marketing Digital 360°. Tráfego Pago, Comunicação visual,
       Criação de Sites, SEO e Gestão de Redes Sociais em um só lugar.

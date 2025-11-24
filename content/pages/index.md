@@ -238,7 +238,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Por que a digi?
       color: text-dark
       styles:
         self:

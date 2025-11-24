@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: digi
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Agência de Marketing Digital 360°. Tráfego Pago, Comunicação visual,
+      Criação de Sites, SEO e Gestão de Redes Sociais em um só lugar.
+
+      .
+
     actions:
       - label: Get started
         altText: ''

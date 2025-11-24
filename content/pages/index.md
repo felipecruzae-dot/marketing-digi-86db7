@@ -97,10 +97,11 @@ sections:
               borderRadius: x-large
       - title: SEO
         subtitle: Você no topo do Google
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Posicionamos sua marca na primeira página das buscas. Gere autoridade
+          e conquiste leads qualificados organicamente, sem pagar por clique.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two

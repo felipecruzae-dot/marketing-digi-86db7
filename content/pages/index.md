@@ -374,7 +374,7 @@ sections:
       profissionalizar o marketing.
 
     actions:
-      - label: Conversar com um consultor
+      - label: Falar com consultor
         url: /
         icon: arrowRight
         iconPosition: right

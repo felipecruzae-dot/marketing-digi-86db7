@@ -419,7 +419,7 @@ sections:
           “A Marketing Digi transformou nossa visão de vendas online. O tráfego
           pago começou a se pagar no primeiro mês.”
         tagline: Depoimento 1
-        subtitle: 'Ricardo, Diretor Comercial'
+        subtitle: 'Ricardo, Diretor Comercial - Agrofauna'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

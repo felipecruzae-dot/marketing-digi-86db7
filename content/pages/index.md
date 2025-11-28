@@ -332,8 +332,9 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Transformamos seguidores em fãs. Cuidamos de toda a parte visual e
+      estratégica do seu Instagram, Facebook e LinkedIn para fortalecer sua
+      marca.
     actions:
       - label: Get started
         url: /

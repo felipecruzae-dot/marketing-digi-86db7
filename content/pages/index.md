@@ -367,9 +367,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Inteligência de Mercado
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+
+      Analisamos o seu cenário, seus concorrentes e seus dados para traçar o
+      melhor caminho para o crescimento. Ideal para quem precisa
+      profissionalizar o marketing.
+
     actions:
       - label: Get started
         url: /

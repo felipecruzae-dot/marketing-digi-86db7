@@ -11,12 +11,9 @@ sections:
         self:
           fontWeight: 400
     subtitle: marketing digi
-    text: >+
+    text: >
       Agência de Marketing Digital 360°. Tráfego Pago, Comunicação visual,
       Criação de Sites, SEO e Gestão de Redes Sociais em um só lugar.
-
-      .
-
     actions:
       - label: Falar com Especialista
         altText: ''

@@ -241,7 +241,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: 'Não fazemos apenas posts, geramos negócios.'
     text: >
 
       Enquanto muitas agências focam apenas em "likes", nós focamos no que paga

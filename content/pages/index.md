@@ -330,7 +330,7 @@ sections:
       text: Gestão de Redes Sociais
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Branding e Engajamento
     text: >
       Transformamos seguidores em fãs. Cuidamos de toda a parte visual e
       estratégica do seu Instagram, Facebook e LinkedIn para fortalecer sua

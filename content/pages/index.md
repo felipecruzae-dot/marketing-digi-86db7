@@ -242,11 +242,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+
+      Enquanto muitas agências focam apenas em "likes", nós focamos no que paga
+      suas contas: vendas. Nossa metodologia 360º integra todas as pontas do
+      marketing para garantir que sua empresa cresça de forma sólida e
+      constante.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4

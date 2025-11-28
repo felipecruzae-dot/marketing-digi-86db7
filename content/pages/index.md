@@ -292,11 +292,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Sua empresa visível para quem quer comprar
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+
+      Hoje, se você não está na internet, você não existe. Criamos uma presença
+      digital robusta para sua marca, garantindo que quando seu cliente procurar
+      pelo seu serviço, ele encontre VOCÊ, e não o seu concorrente.
     actions: []
     media:
       title: Title of the video

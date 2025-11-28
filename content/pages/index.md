@@ -336,7 +336,7 @@ sections:
       estratégica do seu Instagram, Facebook e LinkedIn para fortalecer sua
       marca.
     actions:
-      - label: Get started
+      - label: Ver planos
         url: /
         icon: arrowRight
         iconPosition: right

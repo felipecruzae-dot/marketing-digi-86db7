@@ -380,7 +380,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Outros serviços
         url: /
         showIcon: true
         icon: arrowRight

@@ -416,8 +416,8 @@ sections:
     subtitle: Veja o que falam de nós
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “A Marketing Digi transformou nossa visão de vendas online. O tráfego
+          pago começou a se pagar no primeiro mês.”
         tagline: Depoimento 1
         subtitle: 'Maria Walters, Company'
         text: >-

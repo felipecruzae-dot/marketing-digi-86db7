@@ -327,7 +327,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Gestão de Redes Sociais
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach

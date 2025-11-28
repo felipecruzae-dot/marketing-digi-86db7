@@ -420,10 +420,11 @@ sections:
           pago começou a se pagar no primeiro mês.”
         tagline: Depoimento 1
         subtitle: 'Ricardo, Diretor Comercial - Agrofauna'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          "O projeto envolveu a otimização completa do e-commerce e gestão de
+          tráfego. Em 45 dias, reduziram nosso Custo por Aquisição (CPA) em 30%
+          e aumentaram a taxa de conversão do site."
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters

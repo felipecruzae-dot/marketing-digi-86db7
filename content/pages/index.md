@@ -188,7 +188,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/store_type_1749072849704.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg

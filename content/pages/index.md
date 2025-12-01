@@ -610,7 +610,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Como a Marketing Digi trabalha:'
+    subtitle: 3 Passos para o seu crescimento
     items:
       - title: Feature Item One
         tagline: This is the tagline

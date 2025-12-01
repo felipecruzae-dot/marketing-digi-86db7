@@ -191,7 +191,7 @@ sections:
       - url: /images/vp logo reduzido.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/AGROFAUNA LOGO.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg

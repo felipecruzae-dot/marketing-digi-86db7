@@ -604,7 +604,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: O Processo de Trabalho
+      text: O Processo de Trabalho da Marketing Digi
       color: text-primary
       styles:
         self:

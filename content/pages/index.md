@@ -708,11 +708,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Fale Conosco
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Não perca mais tempo (e dinheiro) com estratégias que não funcionam.
+      Preencha o formulário abaixo e descubra como a Marketing Digi pode
+      transformar seus resultados.
+
     media:
       fields:
         - name: name

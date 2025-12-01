@@ -188,11 +188,11 @@ sections:
       - url: /images/MILA PRATAS LOGO.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/vp logo reduzido.png
-        altText: Contentful logo
-        type: ImageBlock
       - url: /images/AGROFAUNA LOGO.png
         altText: Sanity logo
+        type: ImageBlock
+      - url: /images/vp logo reduzido.png
+        altText: Contentful logo
         type: ImageBlock
       - url: /images/assai reduzido.png
         altText: Rangle logo

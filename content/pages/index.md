@@ -639,7 +639,7 @@ sections:
         type: FeaturedItem
       - title: Execução Full Service
         tagline: Passo 2
-        subtitle: This is the item subtitle
+        subtitle: Colocamos a mão na massa
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:

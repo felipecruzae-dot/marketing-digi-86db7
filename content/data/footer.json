@@ -1,56 +1,109 @@
 {
     "logo": {
         "url": "/images/LOGOMARKETINGDIGI.PNG",
-        "altText": "Marketing Digi Logo",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
+        "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "primaryLinks": [
+    "text": "O marketing que fuinciona.\n",
+    "primaryLinks": {
+        "title": "Product",
+        "links": [
+            {
+                "label": "Features",
+                "altText": "Features page",
+                "url": "/",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Pricing",
+                "url": "/pricing",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Documentation",
+                "url": "/",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "secondaryLinks": {
+        "title": "Company",
+        "links": [
+            {
+                "label": "Careers",
+                "altText": "careers page",
+                "url": "/careers",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "socialLinks": [
         {
-            "label": "Modelos de Atuação",
-            "url": "/pricing",
+            "altText": "GitHub link",
+            "url": "https://github.com/netlify",
+            "icon": "github",
+            "type": "Social"
+        },
+        {
+            "altText": "Twitter link",
+            "url": "https://twitter.com/netlify",
+            "icon": "twitter",
+            "type": "Social"
+        },
+        {
+            "altText": "LinkedIn link",
+            "url": "https://www.linkedin.com/company/netlify",
+            "icon": "linkedin",
+            "type": "Social"
+        },
+        {
+            "altText": "Email link",
+            "url": "/",
+            "icon": "mail",
+            "type": "Social"
+        }
+    ],
+    "legalLinks": [
+        {
+            "label": "Terms",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Sobre Mim",
-            "altText": "Sobre Felipe Cruz",
-            "url": "/about",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Blog",
-            "altText": "Artigos e Dicas",
-            "url": "/blog",
+            "label": "Privacy",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         }
     ],
-    "secondaryLinks": [
-        {
-            "label": "Fale Conosco",
-            "altText": "Entre em contato",
-            "url": "/contact",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
-        }
-    ],
-    "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "colors": "bg-dark-fg-light",
+    "type": "Footer"
 }

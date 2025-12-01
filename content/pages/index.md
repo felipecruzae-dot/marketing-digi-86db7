@@ -182,7 +182,7 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/vp logo reduzido.png
+      - url: /images/balaska logo.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/MILA PRATAS LOGO.png

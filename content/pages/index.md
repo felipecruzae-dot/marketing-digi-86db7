@@ -640,8 +640,12 @@ sections:
       - title: Execução Full Service
         tagline: Passo 2
         subtitle: Colocamos a mão na massa
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+
+          Nossa equipe multidisciplinar ativa as campanhas de Tráfego, cria os
+          conteúdos, otimiza o site e configura as ferramentas de dados. Tudo
+          integrado.
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image

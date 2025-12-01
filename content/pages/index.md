@@ -751,7 +751,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Enviar!
+        label: Enviar
         showIcon: false
         icon: arrowRight
         iconPosition: right

@@ -612,7 +612,7 @@ sections:
       type: TitleBlock
     subtitle: 3 Passos para o seu crescimento
     items:
-      - title: Feature Item One
+      - title: Diagnóstico & Estratégia
         tagline: Passo 1
         subtitle: This is the item subtitle
         text: |

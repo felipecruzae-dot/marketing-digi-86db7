@@ -176,8 +176,7 @@ sections:
         textAlign: center
   - subtitle: Parceiros
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - altText: Empathy logo
         type: ImageBlock
       - url: /images/balaska logo.png
         altText: Wellster logo

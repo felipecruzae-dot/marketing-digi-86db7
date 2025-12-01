@@ -1,5 +1,5 @@
 {
-"logo": {
+    "logo": {
         "url": "/images/LOGOMARKETINGDIGI.PNG",
         "altText": "Marketing Digi Logo",
         "styles": {
@@ -31,7 +31,7 @@
         },
         {
             "label": "Blog",
-            "altText": "Blog de Marketing",
+            "altText": "Artigos e Dicas",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",

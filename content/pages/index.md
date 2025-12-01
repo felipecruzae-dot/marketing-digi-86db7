@@ -666,7 +666,7 @@ sections:
         type: FeaturedItem
       - title: Otimização & Escala
         tagline: Passo 3
-        subtitle: This is the item subtitle
+        subtitle: Melhoria contínua
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.

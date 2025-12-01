@@ -615,8 +615,10 @@ sections:
       - title: Diagnóstico & Estratégia
         tagline: Passo 1
         subtitle: Entendemos o seu negócio
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+
+          Não acreditamos em receita de bolo. Analisamos seus concorrentes, seu
+          público e seus dados para desenhar um plano de ação personalizado.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image

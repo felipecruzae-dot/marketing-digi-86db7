@@ -667,9 +667,11 @@ sections:
       - title: Otimização & Escala
         tagline: Passo 3
         subtitle: Melhoria contínua
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+
+          Marketing é teste e ajuste. Monitoramos os resultados diariamente para
+          cortar o que não funciona e colocar mais verba no que traz lucro.
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

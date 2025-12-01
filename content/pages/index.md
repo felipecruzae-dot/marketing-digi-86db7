@@ -604,7 +604,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: '"Como a Marketing Digi trabalha'
       color: text-primary
       styles:
         self:

@@ -614,7 +614,7 @@ sections:
     items:
       - title: Diagnóstico & Estratégia
         tagline: Passo 1
-        subtitle: This is the item subtitle
+        subtitle: Entendemos o seu negócio
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

@@ -179,7 +179,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/opem brasil logo reduzido 2.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/balaska logo.png

@@ -188,7 +188,7 @@ sections:
       - url: /images/MILA PRATAS LOGO.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/logo-vp-menu.png
+      - url: /images/vp logo reduzido.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg

@@ -604,7 +604,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Como a Marketing Digi trabalha
+      text: O Processo de Trabalho
       color: text-primary
       styles:
         self:

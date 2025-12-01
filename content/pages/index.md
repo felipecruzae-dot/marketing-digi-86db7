@@ -613,7 +613,7 @@ sections:
     subtitle: 3 Passos para o seu crescimento
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: Passo 1
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.

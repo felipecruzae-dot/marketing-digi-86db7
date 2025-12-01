@@ -638,7 +638,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Execução Full Service
-        tagline: This is the tagline
+        tagline: Passo 2
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.

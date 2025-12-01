@@ -179,11 +179,11 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/opem brasil logo reduzido 2.png
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/balaska logo.png
         altText: Wellster logo
+        type: ImageBlock
+      - url: /images/opem brasil logo reduzido 2.png
+        altText: Vise logo
         type: ImageBlock
       - url: /images/MILA PRATAS LOGO.png
         altText: Telus logo

@@ -704,7 +704,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: A parte mais importante para gerar leads.
+      text: Conte com a ajuda de quem entende de marketing.
       color: text-dark
       type: TitleBlock
     subtitle: Fale Conosco
